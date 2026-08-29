@@ -1,7 +1,7 @@
 # TaskBoard — Code Review Practice Project
 
 A tiny in-memory "task board" library (no external dependencies) used as a
-hands-on exercise for practicing code reviews.
+hands-on exercise for practising code reviews.
 
 The repo has two branches:
 
@@ -15,7 +15,7 @@ The repo has two branches:
 1. **Fork this repository** to your own GitHub account. When forking, remember to uncheck the **"Copy the main branch only"** checkbox so that you get all branches (including `dev`).
 2. In your fork, open a **pull request from `dev` into `main`**.
    This PR is what you'll actually review — treat it exactly like a
-   real PR a teammate opened and is waiting on you to look at.
+   A real PR a teammate opened and is waiting for your review.
 3. **Read through the article on giving code reviews first** (shared
    separately in Notion) before you start. Keep the checklist from that
    article open while you work.
@@ -27,7 +27,7 @@ The repo has two branches:
      so the severity is clear.
    - Explain *why* something is a problem, not just *what* is wrong.
    - Not everything in the diff is necessarily wrong - part of the
-     exercise is recognizing when something doesn't need a comment at all.
+     exercise is recognising when something doesn't need a comment at all.
 5. When you're done, **share the PR link with a peer** and have them
    review it too - either by adding their own comments to your PR, or
    by opening their own PR from a fresh fork and comparing notes with
@@ -37,5 +37,5 @@ The repo has two branches:
    a few comments together for tone and clarity.
 
 You do **not** need to fix any of the issues you find - this exercise is
-about practicing how you *communicate* a review, not about producing a
+about practising how you *communicate* a review, not about producing a
 fix.
